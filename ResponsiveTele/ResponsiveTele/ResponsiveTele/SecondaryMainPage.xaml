@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResponsiveTele.SecondaryMainPage">
+    <StackLayout
+        Opacity="1">
+        <RelativeLayout
+            Padding="0"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="CenterAndExpand">
+
+            <Image 
+                x:Name="bgImg"
+                Source="Blur.jpg"
+                RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+                RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"
+            />
+
+            <StackLayout
+            VerticalOptions="CenterAndExpand"
+            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+            RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToView,Property=Height}"
+            Margin="30, 0">
+                <Image x:Name="_MedLogo"
+                Aspect="AspectFit"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Margin="0"
+                       
+            />
+                <Label  
+                TextColor="White" 
+                HorizontalTextAlignment="Center" 
+                VerticalTextAlignment="Center" 
+                FontSize="30" 
+                FontAttributes="Bold"
+                Text="T-MEDIC"
+                />
+                <Button 
+                x:Name="_SignUp" 
+                Text="SIGN UP" 
+                TextColor="Blue"
+                BackgroundColor="White" 
+                Clicked="_signUp_Clicked"
+                />
+                <Button 
+                x:Name="_Login"
+                Text="LOGIN"
+                TextColor="White"
+                BackgroundColor="Blue" 
+                Clicked="_logIn_Clicked"
+                />
+            </StackLayout>
+        </RelativeLayout>
+    </StackLayout>
+</ContentPage>

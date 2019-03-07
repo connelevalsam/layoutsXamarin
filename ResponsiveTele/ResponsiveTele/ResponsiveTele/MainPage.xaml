@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ResponsiveTele;assembly=ResponsiveTele"
+             x:Class="ResponsiveTele.MainPage">
+
+    <StackLayout>
+        <StackLayout
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand">
+            <Image
+                x:Name="logo"
+                Aspect="AspectFill"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="CenterAndExpand"
+            />
+        </StackLayout>
+        <StackLayout
+            VerticalOptions="EndAndExpand">
+            <Label
+            Text="T-Medic"
+            TextColor="Blue"
+            FontAttributes="Bold"
+            FontSize="Large"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\bin\Debug\netstandard2.0\ResponsiveTele.deps.json
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\bin\Debug\netstandard2.0\ResponsiveTele.dll
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\bin\Debug\netstandard2.0\ResponsiveTele.pdb
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.csprojAssemblyReference.cache
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\SecondaryMainPage.xaml.g.cs
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.csproj.CoreCompileInputs.cache
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.AssemblyInfoInputs.cache
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.AssemblyInfo.cs
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.dll
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\ResponsiveTele.pdb
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Connel\source\repos\ResponsiveTele\ResponsiveTele\ResponsiveTele\obj\Debug\netstandard2.0\SignUp.xaml.g.cs
